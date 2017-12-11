@@ -1,0 +1,4 @@
+<?php
+$name = "Eldar";
+echo "Меня зовут: $name";
+?>
